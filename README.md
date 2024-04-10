@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Sina Maralani</h1>
-<h3 align="center">A passionate fullstack developer</h3>
+<h3 align="left">A passionate fullstack developer</h3>
 
 - 📫 How to reach me **mr.sinamaralani@gmail.com**
 
