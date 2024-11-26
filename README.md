@@ -6,9 +6,7 @@
 <p>
   Frontend Developer specializing in React and Next.js. Passionate about building dynamic, user-friendly web applications with modern JavaScript and TypeScript. Constantly exploring new tools and techniques to improve performance and UX. Check out my repositories for creative solutions and code examples!
 </p>
-###
 
-<p align="left">Frontend Developer</p>
 
 ###
 
