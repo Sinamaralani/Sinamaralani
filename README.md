@@ -3,9 +3,9 @@
 ###
 
 <h2 align="left">About me :</h2>
-<h4>
+<p>
   I'm a Frontend Developer with expertise in React and Next.js, constantly pushing myself to master JavaScript and TypeScript. I don't get tierd of learning new technologies and methodologies, always striving to stay ahead of the curve.exploring new tools and techniques to improve performance and UX. Check out my repositories for code examples!
-</h4>
+</p>
 
 
 ###
