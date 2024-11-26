@@ -4,7 +4,7 @@
 
 <h2 align="left">About me :</h2>
 <p>
-  Frontend Developer specializing in React and Next.js. Passionate about building dynamic, user-friendly web applications with modern JavaScript and TypeScript. Constantly exploring new tools and techniques to improve performance and UX. Check out my repositories for creative solutions and code examples!
+  I'm a Frontend Developer with expertise in React and Next.js, constantly pushing myself to master JavaScript and TypeScript. I don't get tierd of learning new technologies and methodologies, always striving to stay ahead of the curve.exploring new tools and techniques to improve performance and UX. Check out my repositories for code examples!
 </p>
 
 
